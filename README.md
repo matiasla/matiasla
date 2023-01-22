@@ -1,5 +1,5 @@
 - 👋 Hola, soy @matiasla
-- 👀 Estoy interesado en Desarollo Frontend
+- 👀 Estoy interesado en Desarollo Unity
 - 🌱 
-- 💞️ Podes encontrarme en https://www.linkedin.com/in/frontend-developer-/
+- 💞️ Podes encontrarme en www.linkedin.com/in/unity-game-developer
 - 📫 Contactame: m4tias.a@gmail.com

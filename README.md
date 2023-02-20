@@ -1,5 +1,5 @@
 - 👋 Hola, soy @matiasla
-- 👀 Estoy interesado en Desarrollo Unity
+- 👀 Estoy interesado en Desarrollo Fullstack
 - 🌱 
 - 💞️ Podes encontrarme en www.linkedin.com/in/unity-developer-
 - 📫 Contactame: m4tias.a@gmail.com

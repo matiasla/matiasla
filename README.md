@@ -1,5 +1,5 @@
 - 👋 Hola, soy @matiasla
 - 👀 Estoy interesado en Desarrollo Fullstack
 - 🌱 
-- 💞️ Podes encontrarme en https://www.linkedin.com/in/android-developer-/
+- 💞️ Podes encontrarme en https://www.linkedin.com/in/android-kotlin-developer/
 - 📫 Contactame: m4tias.a@gmail.com
